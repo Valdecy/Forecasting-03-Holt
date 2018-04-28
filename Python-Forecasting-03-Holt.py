@@ -153,6 +153,6 @@ X = X.set_index(pd.DatetimeIndex(df.iloc[:,0])) # First column as row names
 X = X.iloc[:,1]
 
 # Calling Function
-holt(X, alpha = 0.61, beta = 0.54, graph = True, horizon = 0, trend = "multiplicative", optimize = False)
+holt(X, alpha = 0.61, beta = 0.55, graph = True, horizon = 0, trend = "multiplicative", optimize = False)
 
 ########################## End of Code #####################################

@@ -12,6 +12,6 @@ This Function is an Implementation of the Holt Method for Time Series with Trend
 
 * horizon = Calculates the prediction h steps ahead. The default value is 0.
 
-* trend = Indicates the types of trend: "additive", "multiplicative" or "none". The default value is "multiplicative"
+* trend = Indicates the types of trend: "additive", "multiplicative" or "none". The default value is "multiplicative".
 
 * optimize = If True then the best "alpha" and "beta" are calculated by brute force. The default value is False.

@@ -14,4 +14,4 @@ This Function is an Implementation of the Holt Method for Time Series with Trend
 
 * trend = Indicates the types of trend: "additive", "multiplicative" or "none". The default value is "multiplicative".
 
-* optimize = If True then the best "alpha" and "beta" are calculated by brute force. The default value is False.
+Finally a brute force optimization can be done by calling the "optimize_holt" function.

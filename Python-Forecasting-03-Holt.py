@@ -7,7 +7,7 @@
 # Lesson: Holt
 
 # Citation: 
-# PEREIRA, V. (2018). Project: Association Rules, File: Python-Forecasting-03-Holt.py, GitHub repository: <https://github.com/Valdecy/Forecasting-03-Holt>
+# PEREIRA, V. (2018). Project: Forecasting, File: Python-Forecasting-03-Holt.py, GitHub repository: <https://github.com/Valdecy/Forecasting-03-Holt>
 
 ############################################################################
 
